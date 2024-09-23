@@ -1,12 +1,17 @@
 {
   "name": "reacr-stacked",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "react-stacked-cards is a lightweight and customizable React component designed to showcase multiple cards in a stacked layout with a smooth scrolling experience. As users scroll, the cards rotate and animate dynamically, creating a visually appealing effect. This component is perfect for showcasing feature highlights, services, or important content in a unique and engaging way.",
-  "keywords": [],
+  "keywords": [
+    "react",
+    "cards",
+    "animate",
+    "scroll"
+  ],
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Dhinesh4668/react-stacked-card-animation.git"
+    "url": "git+https://github.com/Dhinesh4668/react-stacked-card-animation.git"
   },
   "dependencies": {
     "@material-ui/core": "4.10.2",
@@ -38,5 +43,9 @@
     "not op_mini all"
   ],
   "author": "Dhinesh4668",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhinesh4668/react-stacked-card-animation/issues"
+  },
+  "homepage": "https://github.com/Dhinesh4668/react-stacked-card-animation#readme"
 }
